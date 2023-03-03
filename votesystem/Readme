@@ -1,0 +1,15 @@
+ ________  _______   ________  ________  _____ ______   _______      
+|\   __  \|\  ___ \ |\   __  \|\   ___ \|\   _ \  _   \|\  ___ \     
+\ \  \|\  \ \   __/|\ \  \|\  \ \  \_|\ \ \  \\\__\ \  \ \   __/|    
+ \ \   _  _\ \  \_|/_\ \   __  \ \  \ \\ \ \  \\|__| \  \ \  \_|/__  
+  \ \  \\  \\ \  \_|\ \ \  \ \  \ \  \_\\ \ \  \    \ \  \ \  \_|\ \ 
+   \ \__\\ _\\ \_______\ \__\ \__\ \_______\ \__\    \ \__\ \_______\
+    \|__|\|__|\|_______|\|__|\|__|\|_______|\|__|     \|__|\|_______|
+    
+1 - Glisser cette addons dans garrysmod/addons
+
+2 - Faire des modifications-ci besoin dans le fichier sh_config.lua
+
+3 - Redémarrer votre serveur pour que l'addons soit pris en compte et vos modifications avec
+
+4 - Bon jeu !
